@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <g id="3" transform="matrix(1, 0, 0, 1, -386.694061, -2510.790039)">
+    <g id="4" transform="matrix(1, 0, 0, 1, 285.061401, 71)" bx:origin="0.485 0.999">
+      <text id="90%" style="transform: matrix(1.158, 0, 0, 1.158, 266.484, 2677.27); white-space: pre;">
+				<tspan x="0" y="0" class="txt26" dx="0 1 1" style="fill: rgb(60, 71, 97); font-family: TitilliumWeb-Light, &quot;Titillium Web&quot;; font-size: 43px; font-weight: 300; line-height: 18px;">90%</tspan>
+			</text>
+      <path id="base" fill-rule="evenodd" class="shp27" d="M300 2580C344.18 2580 380 2615.82 380 2660C380 2704.18 344.18 2740 300 2740C255.82 2740 220 2704.18 220 2660C220 2615.82 255.82 2580 300 2580ZM233 2660C233 2697 263 2727 300 2727C337 2727 367 2697 367 2660C367 2623 337 2593 300 2593C263 2593 233 2623 233 2660Z" style="fill: rgb(223, 232, 237);"/>
+      <path id="Progress" class="shp3" d="M300 2569.33L300 2600.5C300 2600.5 406.17 2641.67 340.58 2705.92C312.85 2733.09 265.68 2724.96 247.83 2685.87C226.92 2640.05 267.64 2612.22 267.64 2612.22L249.5 2584.79C249.5 2584.79 191.53 2635.75 227.24 2705.43C250.83 2751.47 306.74 2749.14 333 2739.25C391.68 2717.15 392.67 2647.67 369.67 2613.67C346.67 2579.67 300 2569.33 300 2569.33Z" style="fill: rgb(48, 186, 231);"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg">
+  <g id="3" transform="matrix(1, 0, 0, 1, -386.694061, -2510.790039)">
+    <text id="75%" style="transform: matrix(1.158, 0, 0, 1.158, 546.484, 2677.27); white-space: pre;">
+				<tspan x="0" y="0" class="txt26" dx="0 1 1" style="fill: rgb(60, 71, 97); font-family: TitilliumWeb-Light, &quot;Titillium Web&quot;; font-size: 43px; font-weight: 300; line-height: 18px;">75%</tspan>
+			</text>
+    <path id="Base" fill-rule="evenodd" class="shp27" d="M580 2580C624.18 2580 660 2615.82 660 2660C660 2704.18 624.18 2740 580 2740C535.82 2740 500 2704.18 500 2660C500 2615.82 535.82 2580 580 2580ZM513 2660C513 2697 543 2727 580 2727C617 2727 647 2697 647 2660C647 2623 617 2593 580 2593C543 2593 513 2623 513 2660Z" style="fill: rgb(223, 232, 237);"/>
+    <path id="Progress" class="shp11" d="M580 2569.33L580 2600.5C580 2600.5 692.07 2652.1 616.49 2704.23C538.65 2757.92 521.6 2660 521.6 2660L491.81 2660C491.81 2660 503.87 2773.44 613 2739.25C672.84 2720.5 672.67 2647.67 649.67 2613.67C626.67 2579.67 580 2569.33 580 2569.33Z" style="fill: rgb(215, 70, 128);"/>
+  </g>
+</svg>
