@@ -180,7 +180,7 @@ div li {
 */
 .bg2 {
     height: 914px;
-    background-color: #e7f1f8;
+    background-color: #d9e2e9;
 }
 .s2-txt {
     color: #3c4761;
@@ -438,7 +438,7 @@ div li {
 Подвал
 ===========================================================
 */
-.bg6 {
+#bg6 {
     height: 933px;
     background-color: #3c5499;
 }
